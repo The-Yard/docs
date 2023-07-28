@@ -13,8 +13,10 @@ Server IP: :code:`play.yardpodcast.cc`
 Announcements
 ^^^^^^^^^^^^^^
 
-Development Log #1: Jul 7th, 2023
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Development Log #1
+^^^^^^^^^^^^^^^^^^^
+
+**Date: Jul 7th, 2023**
 
 There hasn't been an update for a while so I'm here to showcase what we've been up to for the past couple weeks! Definitely expect an update every thursday from now on.
 
