@@ -16,7 +16,7 @@ Join The Yard Discord Server
 
 .. image::images\patreon_settings_apps_discord.png
 
-1. Join the Discord through the `membership tab <https://www.patreon.com/theyard/membership#quick-links>`_
+2. Join the Discord through the `membership tab <https://www.patreon.com/theyard/membership#quick-links>`_
 
 .. image::images\patreon_membership.png
 
@@ -48,4 +48,4 @@ There are 2 options to get to the **CREATIVE** server from the **LOBBY**
 EVENTS
 ^^^^^^^
 The **EVENT** server is only open during active events and can only be joined by right clicking
-the **EVENT** npc in the server LOBBY
+the **EVENT** npc in the server **LOBBY**
