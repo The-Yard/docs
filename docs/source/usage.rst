@@ -14,11 +14,11 @@ Join The Yard Discord Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 1. Link your Discord account through Patreon `here <https://www.patreon.com/settings/apps/discord>`_
 
-.. image::/images/patreon_settings_apps_discord.png
+.. image::/docs/images/patreon_settings_apps_discord.png
 
 2. Join the Discord through the `membership tab <https://www.patreon.com/theyard/membership#quick-links>`_
 
-.. image::/images/patreon_membership.png
+.. image::/docs/images/patreon_membership.png
 
 .. warning::
    You need to be in the Discord Server to join the server!
