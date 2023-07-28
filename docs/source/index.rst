@@ -15,3 +15,4 @@ Contents
 
    introduction
    api
+   changelog
