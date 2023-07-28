@@ -35,7 +35,7 @@ CREATIVE
        - Spawn locations updated
        - Creative World has been prerendered to the worldborder
        - Plot Data is now stored on the database
-       - PlotSquared support added to DynMap
+       - PlotSquared support added to Dynmap
     - YD-72 FAWE Limits
        - Max Memory: 80%
        - Tick Limiter enabled
