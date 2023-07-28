@@ -14,5 +14,6 @@ Contents
 .. toctree::
 
    introduction
+   rules
    api
    changelog
