@@ -1,12 +1,17 @@
 Welcome to The Yard MC Server Documentation!
 ===================================
 
-.. note::
+Server IP: :code:`play.yardpodcast.cc`
+---------------------------------------
 
-   This project is under active development.
 
-.. note::
-   These docs are under development
+
+.. note:: 
+   This documentation is not complete and under active development.
+
+
+Announcements
+^^^^^^^^^^^^^^
 
 Contents
 --------
