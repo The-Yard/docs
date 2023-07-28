@@ -1,34 +1,24 @@
-Usage
-=====
+Introduction
+=============
 
-.. _installation:
 
-Installation
-------------
 
-To use Lumache, first install it using pip:
+.. _how-to-join:
 
-.. code-block:: console
+How To Join The Server
+------------------------
 
-   (.venv) $ pip install lumache
+In order to get access to the server you need an active subscription to `The Yard <https://patreon.com/theyard>`_
 
-Creating recipes
-----------------
+Join The Yard Discord Server
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. Link your Discord account through Patreon `here <https://www.patreon.com/settings/apps/discord>`_
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+.. image::docs/images/patreon_settings_apps_discord.png
 
-.. autofunction:: lumache.get_random_ingredients
+2. Join the Discord through the `membership tab <https://www.patreon.com/theyard/membership#quick-links>`_
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+.. image::docs/images/patreon_membership.png
 
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+.. warning::
+   You need to be in the Discord Server to join the server!
