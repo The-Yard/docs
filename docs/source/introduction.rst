@@ -32,7 +32,7 @@ Join The Minecraft Server
 
 SMP
 ^^^^
-There are 2 options to get to the **SMP** server from the lobby
+There are 2 options to get to the **SMP** server from the **LOBBY**
 
 1. Using the **SMP** NPC at spawn
 2. Using the Server Selector in your inventory, and selecting **SMP**
