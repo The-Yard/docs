@@ -1,6 +1,41 @@
 Changelog
 =========
 
+Version 1.0.2
+--------------
+**Date** 2023-08-03
+
+GENERAL
+^^^^^^^^
+    - No new updates
+
+PROXY
+^^^^^^
+    - YD-101 Mods can now unmute
+
+SMP
+^^^^
+    - YD-99 HeadDB added for staff
+
+CREATIVE
+^^^^^^^^^
+    - No new updates
+
+Infrastructure
+^^^^^^^^^^^^^^^
+    - No new updates
+
+Current Bugs (Not Fixed)
+^^^^^^^^^^^^^^^^^^^^^^^^^
+    - YD-101 Muted players are kicked
+    - YD-106 Combat tag issues
+    - YD-105 Moderator InvSee issues
+
+Fixed
+^^^^^^
+    - YD-000 Removed Herobrine
+    - YD-000 Nature and Wildlife Preservation Measures
+
 Version 1.0.1
 --------------
 **Date** 2023-07-28
